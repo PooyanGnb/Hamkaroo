@@ -1,0 +1,6 @@
+# general modules
+django >4.2,<4.3
+pillow
+djangorestframework
+psycopg2-binary
+python-decouple
