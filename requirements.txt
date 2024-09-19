@@ -4,3 +4,12 @@ pillow
 djangorestframework
 psycopg2-binary
 python-decouple
+djoser
+
+# third party modules
+markdown
+djangorestframework-simplejwt
+django-filter
+coreapi
+drf-yasg[validation]
+django-cors-headers
